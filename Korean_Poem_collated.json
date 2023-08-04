@@ -1,0 +1,21 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "ac613d77-3922-4ac4-922c-b25dd489b1fe",
+            "collectionId": "Korean",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Korean/ac613d77-3922-4ac4-922c-b25dd489b1fe_ko_Male.mp4"
+        },
+        {
+            "id": "434e149d-2af0-4900-a4c4-d9b1bad6aaa6",
+            "collectionId": "Korean",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Korean/434e149d-2af0-4900-a4c4-d9b1bad6aaa6_ko_Male.mp4"
+        }
+    ]
+}
